@@ -84,6 +84,19 @@
 
 ---
 
+### 🖍️ Graph Colouring
+
+> * ![Graph Colouring Example 1](https://user-images.githubusercontent.com/68887544/116805676-c7a68d80-ab45-11eb-95c8-6d93e08ab0f4.png)
+> * ![Graph Colouring Example 2](https://user-images.githubusercontent.com/68887544/116805686-d1c0ac00-ab45-11eb-8ff1-b6b1f4c98214.png)
+> * ![Graph Colouring Example 3](https://user-images.githubusercontent.com/68887544/116805694-d8e7ba00-ab45-11eb-8f41-2a84b81b3b42.png)
+> * ![Graph Colouring Example 4](https://user-images.githubusercontent.com/68887544/116805703-df764180-ab45-11eb-8f54-814b7a20ea2d.png)
+> * ![Graph Colouring Example 5](https://user-images.githubusercontent.com/68887544/116805715-e6d57380-ab45-11eb-8a0a-04be7c879c96.png)
+> * ![Graph Colouring Example 6](https://user-images.githubusercontent.com/68887544/116805724-efc64400-ab45-11eb-9ed6-6f73b0fef0e0.png)
+> * ![Graph Colouring Example 7](https://user-images.githubusercontent.com/68887544/116805737-f9e04780-ab45-11eb-9141-d3c7f7ff6d9f.png)
+
+---
+---
+
 ## 🎓 Concluding Notes
 
 Graph Theory is a fundamental area of discrete mathematics that plays a crucial role in computer science. The concepts covered in this unit provide essential tools for solving complex problems in algorithms, network design, and data structure optimization. Mastery of these topics will enhance your problem-solving skills and analytical thinking in various technical domains.
