@@ -18,5 +18,5 @@
 **✅ Completed Notes**  
 
 <p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=schrodingerspet&label=Profile%20Views&color=6&icon=1&pretty=true" alt="Profile Views"/>
+    <img src="https://visitcount.itsvg.in/api?id=DM-Notes&label=Profile%20Views&color=6&icon=1&pretty=true" alt="Profile Views"/>
 </p>
